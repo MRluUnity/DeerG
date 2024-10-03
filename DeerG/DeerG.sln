@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeerG", "DeerG\DeerG.vcxproj", "{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{6E4A71E3-079D-476F-8AE0-A2436648A0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}.Debug|x64.ActiveCfg = Debug|x64
+		{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}.Debug|x64.Build.0 = Debug|x64
+		{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}.Release|x64.ActiveCfg = Release|x64
+		{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}.Release|x64.Build.0 = Release|x64
+		{6E4A71E3-079D-476F-8AE0-A2436648A0DB}.Debug|x64.ActiveCfg = Debug|x64
+		{6E4A71E3-079D-476F-8AE0-A2436648A0DB}.Debug|x64.Build.0 = Debug|x64
+		{6E4A71E3-079D-476F-8AE0-A2436648A0DB}.Release|x64.ActiveCfg = Release|x64
+		{6E4A71E3-079D-476F-8AE0-A2436648A0DB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63D8AFE-5C05-450F-B169-54144A518991}
+	EndGlobalSection
+EndGlobal
