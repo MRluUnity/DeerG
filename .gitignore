@@ -4,4 +4,4 @@ DeerG/bin/
 DeerG/bin-int/
 
 # files
-.user
+*.user
