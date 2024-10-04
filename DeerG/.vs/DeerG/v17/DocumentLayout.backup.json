@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\GameEngine\\DeerG\\DeerG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E4A71E3-079D-476F-8AE0-A2436648A0DB}|Sandbox\\Sandbox.vcxproj|D:\\GameEngine\\DeerG\\DeerG\\Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6E4A71E3-079D-476F-8AE0-A2436648A0DB}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|solutionrelative:DeerG\\src\\DeerG\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|solutionrelative:DeerG\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|solutionrelative:DeerG\\src\\DeerG\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|solutionrelative:DeerG\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|solutionrelative:DeerG\\src\\DeerG\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4A71E3-079D-476F-8AE0-A2436648A0DB}|Sandbox\\Sandbox.vcxproj|D:\\GameEngine\\DeerG\\DeerG\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E4A71E3-079D-476F-8AE0-A2436648A0DB}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|solutionrelative:DeerG\\src\\DeerG.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60FB147C-AD5F-4589-ADAD-6A34AE07D03C}|DeerG\\DeerG.vcxproj|solutionrelative:DeerG\\src\\DeerG\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,40 +59,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Application.cpp",
-              "DocumentMoniker": "D:\\GameEngine\\DeerG\\DeerG\\Sandbox\\src\\Application.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\src\\Application.cpp",
-              "ToolTip": "D:\\GameEngine\\DeerG\\DeerG\\Sandbox\\src\\Application.cpp",
-              "RelativeToolTip": "Sandbox\\src\\Application.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-03T14:57:20.985Z",
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\EntryPoint.h",
+              "RelativeDocumentMoniker": "DeerG\\src\\DeerG\\EntryPoint.h",
+              "ToolTip": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\EntryPoint.h",
+              "RelativeToolTip": "DeerG\\src\\DeerG\\EntryPoint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-04T10:15:39.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeerG.h",
+              "DocumentMoniker": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG.h",
+              "RelativeDocumentMoniker": "DeerG\\src\\DeerG.h",
+              "ToolTip": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG.h",
+              "RelativeToolTip": "DeerG\\src\\DeerG.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-04T10:03:18.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Test.cpp",
-              "DocumentMoniker": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\Test.cpp",
-              "RelativeDocumentMoniker": "DeerG\\src\\Test.cpp",
-              "ToolTip": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\Test.cpp",
-              "RelativeToolTip": "DeerG\\src\\Test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "Application.cpp",
+              "DocumentMoniker": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\Application.cpp",
+              "RelativeDocumentMoniker": "DeerG\\src\\DeerG\\Application.cpp",
+              "ToolTip": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\Application.cpp",
+              "RelativeToolTip": "DeerG\\src\\DeerG\\Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-03T14:51:24.68Z",
+              "WhenOpened": "2024-10-04T09:50:38.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Test.h",
-              "DocumentMoniker": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\Test.h",
-              "RelativeDocumentMoniker": "DeerG\\src\\Test.h",
-              "ToolTip": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\Test.h",
-              "RelativeToolTip": "DeerG\\src\\Test.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Title": "Application.h",
+              "DocumentMoniker": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\Application.h",
+              "RelativeDocumentMoniker": "DeerG\\src\\DeerG\\Application.h",
+              "ToolTip": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\Application.h",
+              "RelativeToolTip": "DeerG\\src\\DeerG\\Application.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-03T14:51:10.061Z",
+              "WhenOpened": "2024-10-04T09:50:35.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Core.h",
+              "DocumentMoniker": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\Core.h",
+              "RelativeDocumentMoniker": "DeerG\\src\\DeerG\\Core.h",
+              "ToolTip": "D:\\GameEngine\\DeerG\\DeerG\\DeerG\\src\\DeerG\\Core.h",
+              "RelativeToolTip": "DeerG\\src\\DeerG\\Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-04T09:50:03.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SandboxApp.cpp",
+              "DocumentMoniker": "D:\\GameEngine\\DeerG\\DeerG\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
+              "ToolTip": "D:\\GameEngine\\DeerG\\DeerG\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T14:57:20.985Z",
               "EditorCaption": ""
             }
           ]
