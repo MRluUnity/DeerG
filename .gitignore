@@ -1,7 +1,6 @@
 .vs/
-DeerG/.vs/
-DeerG/bin/
-DeerG/bin-int/
+bin/
+bin-int/
 
 # files
 *.user
