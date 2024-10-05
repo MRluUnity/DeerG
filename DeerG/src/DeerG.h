@@ -5,6 +5,7 @@
 */
 
 #include "DeerG/Application.h"
+#include "DeerG/Log.h"
 // ---Entry Point--------------------
 #include "DeerG/EntryPoint.h"
 // ----------------------------------
